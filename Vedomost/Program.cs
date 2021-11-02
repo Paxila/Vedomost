@@ -22,7 +22,6 @@ namespace Vedomost
             int index = 0;
             string zapis;
             string izm = null;
-            //Console.WriteLine("Внести изменения? y/n");
             Console.WriteLine("exit - выход");
             Console.WriteLine("add - записать");
             Console.WriteLine("list - вывести список");
